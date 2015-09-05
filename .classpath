@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/myLibrary"/>
+	<classpathentry kind="lib" path="D:/lib&amp;src/jpbc/jars/bcprov-jdk16-1.46.jar"/>
+	<classpathentry kind="lib" path="D:/lib&amp;src/jpbc/jars/jna-3.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/lib&amp;src/jpbc/jars/jpbc-api-2.0.0.jar" sourcepath="D:/lib&amp;src/jpbc/jpbcsrc.zip"/>
+	<classpathentry kind="lib" path="D:/lib&amp;src/jpbc/jars/jpbc-benchmark-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/lib&amp;src/jpbc/jars/jpbc-crypto-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/lib&amp;src/jpbc/jars/jpbc-mm-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/lib&amp;src/jpbc/jars/jpbc-pbc-2.0.0.jar" sourcepath="D:/lib&amp;src/jpbc/pbc.zip"/>
+	<classpathentry kind="lib" path="D:/lib&amp;src/jpbc/jars/jpbc-plaf-2.0.0.jar" sourcepath="D:/lib&amp;src/jpbc/plaf.zip"/>
+	<classpathentry kind="lib" path="E:/软件/mysql/mysql-connector-java-5.0.4-bin.jar"/>
+	<classpathentry kind="lib" path="E:/Java/hadoop_jar/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Java/hadoop_jar/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Java/hadoop_jar/commons-el-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Java/hadoop_jar/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Java/hadoop_jar/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/Java/hadoop_jar/commons-logging-api-1.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/Java/hadoop_jar/commons-net-1.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/Java/hadoop_jar/core-3.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Java/hadoop_jar/hadoop-0.20.2-core.jar"/>
+	<classpathentry kind="lib" path="E:/Java/hadoop_jar/hsqldb-1.8.0.10.jar"/>
+	<classpathentry kind="lib" path="E:/Java/hadoop_jar/jasper-compiler-5.5.12.jar"/>
+	<classpathentry kind="lib" path="E:/Java/hadoop_jar/jasper-runtime-5.5.12.jar"/>
+	<classpathentry kind="lib" path="E:/Java/hadoop_jar/jets3t-0.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/Java/hadoop_jar/jetty-6.1.14.jar"/>
+	<classpathentry kind="lib" path="E:/Java/hadoop_jar/jetty-util-6.1.14.jar"/>
+	<classpathentry kind="lib" path="E:/Java/hadoop_jar/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="E:/Java/hadoop_jar/kfs-0.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Java/hadoop_jar/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="E:/Java/hadoop_jar/mockito-all-1.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/Java/hadoop_jar/oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="E:/Java/hadoop_jar/servlet-api-2.5-6.1.14.jar"/>
+	<classpathentry kind="lib" path="E:/Java/hadoop_jar/slf4j-api-1.4.3.jar"/>
+	<classpathentry kind="lib" path="E:/Java/hadoop_jar/slf4j-log4j12-1.4.3.jar"/>
+	<classpathentry kind="lib" path="E:/Java/hadoop_jar/xmlenc-0.52.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
